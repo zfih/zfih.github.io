@@ -1,3 +1,16 @@
+# Welcome!
+
+## THIS PAGE IS UNDER CONSTRUCTION!
+
+This page serves as a portfolio/project collection page to show the different projects I have worked on.
+
+## Hybrid VR Renderer optimization (Masters Thesis)
+This project was developed together with...
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zfih/zfih.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -23,7 +36,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
