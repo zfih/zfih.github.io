@@ -5,9 +5,11 @@
 This page serves as a portfolio/project collection page to show the different projects I have worked on.
 
 ## Hybrid VR Renderer optimization (Masters Thesis)
-This project was developed together with...
-
 ![Image](/src/img/master_thesis.png)
+
+This project was developed together with [Lasse Korvig Bjerregaard](https://github.com/LasseKB) and [Daniel Gaard Hansen](https://github.com/Freemedude).
+
+
 
 
 
