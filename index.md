@@ -7,7 +7,7 @@ This page serves as a portfolio/project collection page to show the different pr
 ## Hybrid VR Renderer optimization (Masters Thesis)
 This project was developed together with...
 
-![Image](src/img/master_thesis.png)
+![Image](img/master_thesis.png)
 
 
 
