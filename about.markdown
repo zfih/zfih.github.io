@@ -4,15 +4,40 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### About me
+ - Male, age 24
+ - Speaks: English/Danish
+ - Pronouns: He/Him
+ - Bachelor in Software Development from IT University of Copenhagen
+ - Masters in Games (Tech) from IT University of Copenhagen
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Interests
+ - Rendering
+ - Game Engines
+ - Low level programming
+ - Compilers
+ - Modding and Clients (Minecraft)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Languages:
+ - C/C++
+ - C#
+ - Java
+ - Python
+ - Kotlin (learning)
+	
+### Experiences
+ - 1.5 years of C++ from University with 1 year being fulltime working on masters thesis.
+ - 1 year of DirectX12, DXR and Valve OpenVR experience from masters thesis.
+ - 1 year of professional Unity C# development as a part-time game dev for Arbejdsmiljø Centret
+ - Many years of git experience from uni. I was often in charge of the git repos for projects.
 
+	
+### Misc Github Statistics
 
-[jekyll-organization]: https://github.com/jekyll
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zfih&show_icons=true" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfih" alt="top lang"/>
+</p>

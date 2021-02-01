@@ -7,13 +7,10 @@ title: Welcome
 layout: home
 ---
 
-test6
+## Hi there 🙃 I'm Zfih / Oliver
 
-## THIS PAGE IS UNDER CONSTRUCTION!
+    
+### Contact
+Personal email: [oliver.leth.kristensen@gmail.com](mailto:oliver.leth.kristensen@gmail.com)
 
-This page serves as a portfolio/project collection page to show the different projects I have worked on.
-
-## Hybrid VR Renderer optimization (Masters Thesis)
-![Image](/img/master_thesis.png)
-
-This project was developed together with [Lasse Korvig Bjerregaard](https://github.com/LasseKB) and [Daniel Gaard Hansen](https://github.com/Freemedude).
+Github/gaming email: [zfihgaming@gmail.com](mailto:zfihgaming@gmail.com)
