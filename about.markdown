@@ -10,6 +10,7 @@ permalink: /about/
  - Pronouns: He/Him
  - Bachelor in Software Development from IT University of Copenhagen
  - Masters in Games (Tech) from IT University of Copenhagen
+ - Employment: Software Engineer at BK Medical
 
 ### Interests
  - Rendering
