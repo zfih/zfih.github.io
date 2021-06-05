@@ -8,7 +8,7 @@ layout: home
 ---
 
 ## Hi there 🙃 I'm Zfih / Oliver
-This page is under construction and includes a lot of default/prebuild text and pages.
+This page is under construction and has very little stuff on it.
     
 ### Contact
 Personal email: [oliver.leth.kristensen@gmail.com](mailto:oliver.leth.kristensen@gmail.com)
