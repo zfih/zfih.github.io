@@ -8,9 +8,9 @@ permalink: /about/
  - Male, age 26
  - Speaks: English/Danish
  - Pronouns: He/Him
- - Bachelor in Software Development from IT University of Copenhagen
- - Masters in Games (Tech) from IT University of Copenhagen
- - Employment: Software Engineer at BK Medical
+ - Bachelor in Software Development from IT University of Copenhagen (2015-2018)
+ - Masters in Games (Tech) from IT University of Copenhagen (2018-2020)
+ - Employment: Software Engineer at BK Medical (2021-)
 
 ### Interests
  - Rendering
