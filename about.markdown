@@ -4,29 +4,38 @@ title: About
 permalink: /about/
 ---
 
-### About me
- - Male, age 26
- - Speaks: English/Danish
- - Pronouns: He/Him
+### about me
+ - age: 26
+ - languages: English/Danish
+ - pronouns: He/Him
  - Bachelor in Software Development from IT University of Copenhagen (2015-2018)
  - Masters in Games (Tech) from IT University of Copenhagen (2018-2020)
- - Employment: Software Engineer at BK Medical (2021-)
+ - current employment: Software Engineer at BK Medical (2021-)
 
-### Interests
+### contact
+ - mastodon: [@zfih@toot.site](https://toot.site/@zfih)
+ - twitter: [zfihxd](https://twitter.com/zfihxd)
+ - cohost: [zfih](https://cohost.org/zfih)
+ - discord: zfih#0666
+ - hive: zfih
+ - youtube: [@zfih](https://www.youtube.com/@zfih)
+ - email: [zfihgaming@gmail.com](mailto:zfihgaming@gmail.com) or [oliver.leth.kristensen@gmail.com](mailto:oliver.leth.kristensen@gmail.com)
+
+### interests
  - Rendering
  - Game Engines
  - Low level programming
  - Compilers
  - Modding and Clients (Minecraft)
 
-### Languages:
- - C/C++
- - C#
- - Java
- - Python
- - Kotlin (learning)
+### programming languages:
+ - c/c++
+ - c#
+ - java
+ - python
+ - kotlin (learning)
 	
-### Experiences
+### experiences
  - 1.5 years of C++ from University with 1 year being fulltime working on masters thesis.
  - 1 year of DirectX12, DXR and Valve OpenVR experience from masters thesis.
  - 1 year of professional Unity C# development as a part-time game dev for Arbejdsmiljø Centret
