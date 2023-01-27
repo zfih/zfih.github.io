@@ -28,8 +28,13 @@ permalink: /about/
  - Compilers
  - Modding and Clients (Minecraft)
 
-### programming languages:
- - c/c++
+### languages i use and know:
+ - c++
+ - rust
+ - python
+
+### languages that i have experience with but dont use often
+ - c
  - c#
  - java
  - python
