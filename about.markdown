@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### about me
- - age: 26
+ - age: 27
  - languages: English/Danish
  - pronouns: He/Him
  - Bachelor in Software Development from IT University of Copenhagen (2015-2018)
